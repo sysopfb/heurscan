@@ -1,0 +1,6 @@
+scans:
+- apis
+- bytecode
+- imports
+- encoded_files
+- encryption
